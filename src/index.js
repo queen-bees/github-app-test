@@ -3,7 +3,7 @@ import "./styles.css";
 document.getElementById("app").innerHTML = `
 <h1>Hello Vanilla!</h1>
 <h2>This is to create a pull request to see if the event handler gets triggered!</h2>
-<p>Hello World! My name is Ji. I am a software developer.</p>
+<p>Hello World! My name is Ji. I am a software developer. I work at LaunchPad Labs.</p>
 <div>
   We use the same configuration as Parcel to bundle this sandbox, you can find more
   info about Parcel 
